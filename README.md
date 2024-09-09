@@ -3,8 +3,9 @@
 This project is a web-based art discovery engine designed to help users discover, search, and save artwork to their accounts. The application utilizes a PostgreSQL database to manage and store artworks, user information, and search history, enabling a suggestion-based model for personalized recommendations. It is built with Flask, leveraging Python for backend development, while JavaScript, HTML, and CSS power the front end. The project integrates the Art Institute of Chicago API to retrieve artwork data in JSON format, providing a  diverse collection of international artworks. The user interface features a sleek, modern design with carefully crafted elements to enhance the user experience.
 
 ## Visit the Site
-Feel free to [check out the website here!](https://curated-render.onrender.com)
-<img width="1301" alt="project picture" src="https://github.com/agamjotsodhi/Curated/blob/main/static/images/preview.png">
+Feel free to check out the website here!
+
+<img width="1000" alt="project picture" src="https://github.com/agamjotsodhi/Curated/blob/main/static/images/preview.png">
 
 
 
