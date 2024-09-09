@@ -4,7 +4,7 @@ This project is a web-based art discovery engine designed to help users discover
 
 ## Visit the Site
 Feel free to [check out the website here!](https://curated-render.onrender.com)
-<img width="1301" alt="project picture" src="[https://github.com/Erik-Cupsa/McGill-Scheduler/assets/86483911/3d1bdbe8-8df7-4275-99b5-81bd564aed23](https://github.com/agamjotsodhi/Curated/blob/main/static/images/preview.png?raw=true)">
+<img width="1301" alt="project picture" src="https://github.com/agamjotsodhi/Curated/blob/main/static/images/preview.png">
 
 
 
